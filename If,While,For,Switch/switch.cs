@@ -9,6 +9,7 @@ namespace If_While_For_Switch
         public void Switch()
         {
             int day;
+            
             Console.WriteLine("Enter the number:");
             day = Convert.ToInt32(Console.ReadLine());
             switch (day)

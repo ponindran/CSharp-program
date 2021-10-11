@@ -15,9 +15,9 @@ namespace If_While_For_Switch
             {
                 rem = n % 10;
                 reverse = reverse * 10 + rem;
-                n /= 10;
+                n =n/10;
             }
-            Console.Write("Reversed Number: " + reverse);
+            Console.WriteLine("Reversed Number: " + reverse);
         }
     }
 }

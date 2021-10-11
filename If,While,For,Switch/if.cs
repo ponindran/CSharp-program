@@ -12,7 +12,7 @@ namespace If_While_For_Switch
                  
                 int i;
                 Console.Write("enter the number:");
-                i = Convert.ToInt32(Console.ReadLine());
+               i = Convert.ToInt32(Console.ReadLine());
                 if (i % 2 == 0)
                 
                 {
@@ -23,8 +23,8 @@ namespace If_While_For_Switch
                    Console.WriteLine("It is odd number");
                        
                 }
-            
             return i;
+            
            }
     }
 }
