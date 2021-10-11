@@ -1,7 +1,0 @@
-{
-  "profiles": {
-    "If,While,For,Switch": {
-      "commandName": "Project"
-    }
-  }
-}
