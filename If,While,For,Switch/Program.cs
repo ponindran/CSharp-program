@@ -6,7 +6,7 @@ namespace If_While_For_Switch
     {
         static void Main(string[] args)
         {
-            /*STRINGJOIN B = new STRINGJOIN();
+            STRINGJOIN B = new STRINGJOIN();
              B.join();
 
               @if objname = new @if();
@@ -18,10 +18,10 @@ namespace If_While_For_Switch
                 @while.While() ;
 
                 @for num = new @for();
-                num.For();*/
+                num.For();
 
 
-            /*dupilicate.duplicate();
+            dupilicate.duplicate();
 
             factorial to = new factorial();
             to.Fact();
@@ -49,7 +49,7 @@ namespace If_While_For_Switch
          fibonacci F = new fibonacci();
          F.FIB();
   
-         wordsreverse.main();*/
+         wordsreverse.main();
 
             @switch G = new @switch();
                 G.Switch();
