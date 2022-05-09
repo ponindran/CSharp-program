@@ -18,7 +18,6 @@ namespace If_While_For_Switch
                     wordCount++;
                 }
             }
-             
             wordCount++;
 
             Console.WriteLine("Total number of words: " + wordCount);
